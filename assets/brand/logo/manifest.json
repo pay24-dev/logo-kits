@@ -1,0 +1,384 @@
+{
+  "brand": "Pay24.now",
+  "status": "proposed-pending-owner-approval",
+  "source": "original/pay24-reference-400.png",
+  "vector_master": "svg/pay24-mark-master.svg",
+  "colors": {
+    "black": "#121212",
+    "white": "#FAFAFA",
+    "green": "#3ECF8E"
+  },
+  "assets": [
+    {
+      "path": "LOGO-SPEC.md",
+      "bytes": 1889,
+      "sha256": "c02b73734c2c7c58631edced1e0367b6a1ef6f7d89838b3dda24055e7924faff"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4468,
+      "sha256": "d8dd9a6c1490773b679e8f07c96814e618a8f5f0d82fdd3d9967b26a5f708130"
+    },
+    {
+      "path": "favicon/favicon-128.png",
+      "bytes": 6580,
+      "sha256": "20a05f8160cd647998e6858e079981187691c998fe1b00f8a7ca423e3a924e2e"
+    },
+    {
+      "path": "favicon/favicon-16.png",
+      "bytes": 478,
+      "sha256": "4711b7631dc3598c1fe08552579c72123129e5b358b028dd1f378ee38d66a691"
+    },
+    {
+      "path": "favicon/favicon-256.png",
+      "bytes": 14639,
+      "sha256": "c225eff28ad06649cadde60fc4a197055694c1a6960fdc0663fe09f8390bdd76"
+    },
+    {
+      "path": "favicon/favicon-32.png",
+      "bytes": 1273,
+      "sha256": "a8263d79904a1f18d372076a13995840d722a9de668bd0b6d1c8715f957d9d6f"
+    },
+    {
+      "path": "favicon/favicon-48.png",
+      "bytes": 2158,
+      "sha256": "599a780834ff5c10b2ba302a4b0b33f88603783a80b7763951372bb0702d125b"
+    },
+    {
+      "path": "favicon/favicon-64.png",
+      "bytes": 2993,
+      "sha256": "1330e8fa2bcbf88eff57f7cb405e4f2a1dc915b313b502c02eb678966c58f588"
+    },
+    {
+      "path": "favicon/favicon.ico",
+      "bytes": 35149,
+      "sha256": "09d7401705661c4277362924ae051b50fb2ae2e7f85bfe75683bbc532899e72b"
+    },
+    {
+      "path": "favicon/favicon.svg",
+      "bytes": 3174,
+      "sha256": "7b208e8ba509f38ede5d915cb5541c501fd0379f1d2bed534f129a210d9492e8"
+    },
+    {
+      "path": "original/pay24-reference-400.png",
+      "bytes": 13353,
+      "sha256": "99e2375a141506613c120827dc075359568fd73922e53f20c2bb22911cf22a5b"
+    },
+    {
+      "path": "png/pay24-app-icon-1024w.png",
+      "bytes": 63782,
+      "sha256": "4a6b090ca8b0ff5046badd5e35194b6438880e2365bb623e86bea6e5eac5b3fb"
+    },
+    {
+      "path": "png/pay24-app-icon-256w.png",
+      "bytes": 13742,
+      "sha256": "1ff917f01340bc1a8a2d657f3f0cacec84b01ed6d6f773edfe1ac3259f125d63"
+    },
+    {
+      "path": "png/pay24-app-icon-512w.png",
+      "bytes": 29669,
+      "sha256": "afcf5faf1de9d5654e269abe625017e8c260e9ff50a12c4219fecfcc23a2045c"
+    },
+    {
+      "path": "png/pay24-horizontal-mono-black-1200w.png",
+      "bytes": 35557,
+      "sha256": "d7f8991a111a511cb42866564dc1a3b15fc5be17be795ddfbe1f0b390a7adee3"
+    },
+    {
+      "path": "png/pay24-horizontal-mono-white-1200w.png",
+      "bytes": 34537,
+      "sha256": "938b613b1ab3573a38b9bf23ad7c228259dbf7fc016ea0f452465eb26d5dfc40"
+    },
+    {
+      "path": "png/pay24-horizontal-on-dark-1200w.png",
+      "bytes": 36073,
+      "sha256": "885e7ecc18b695ab32f42124898867aca8a3ffc9589aa9df164eb3fa6b5a2dbf"
+    },
+    {
+      "path": "png/pay24-horizontal-on-dark-2400w.png",
+      "bytes": 77909,
+      "sha256": "a3296c4a71c3b5abaa5a5a5a059f4d76b6ebc080a81a12e2c4a2b858a95e4f7b"
+    },
+    {
+      "path": "png/pay24-horizontal-on-light-1200w.png",
+      "bytes": 37033,
+      "sha256": "798f1f18a6e9980c7dccc74d175fc8929af6baa49285ab29732945f1a87bf6fd"
+    },
+    {
+      "path": "png/pay24-horizontal-on-light-2400w.png",
+      "bytes": 79507,
+      "sha256": "1e8fdae492917a264f6a473a142fd6fdba5cbdf110fba166b560d7dfe8251c88"
+    },
+    {
+      "path": "png/pay24-mark-master-1024w.png",
+      "bytes": 73028,
+      "sha256": "9a524342b9b62119bcb3a07cb4634701079403abf95f57761deb0bd228b8314b"
+    },
+    {
+      "path": "png/pay24-mark-master-128w.png",
+      "bytes": 7240,
+      "sha256": "3477e0488502641e4337ae520cec4c266c554f49e40e628607feac226664d160"
+    },
+    {
+      "path": "png/pay24-mark-master-256w.png",
+      "bytes": 16005,
+      "sha256": "2a9697eb53dc690cf0f302d56594847ca691dd197caaed390c2177b6ba6ca090"
+    },
+    {
+      "path": "png/pay24-mark-master-32w.png",
+      "bytes": 1356,
+      "sha256": "098ad00704c73506a1fa493b1668c384cf3f0883cd0cca1ac4cdfc1c588d1dfa"
+    },
+    {
+      "path": "png/pay24-mark-master-512w.png",
+      "bytes": 34374,
+      "sha256": "3fdad7e890a658daefbaa02ca3ff4c92c9b49a37867849f2387b18bd0c86ae60"
+    },
+    {
+      "path": "png/pay24-mark-master-64w.png",
+      "bytes": 3132,
+      "sha256": "b288bf9bd7eec5cc29e7fce20ca4761ae7978058e7cc27b6d7d54049139b5ad5"
+    },
+    {
+      "path": "png/pay24-mark-mono-black-128w.png",
+      "bytes": 7545,
+      "sha256": "3660ead3e9f4eecda1387a3f42624d53f815d03e152a9f6508058e782c4458b1"
+    },
+    {
+      "path": "png/pay24-mark-mono-black-512w.png",
+      "bytes": 35211,
+      "sha256": "3de7e79991e117a62b7b15db7777bf5636042332b2fcf4fc698a29f6c7052638"
+    },
+    {
+      "path": "png/pay24-mark-mono-white-128w.png",
+      "bytes": 7095,
+      "sha256": "05c6bf5abe4907643d67bef9bd021f7c63a03507982c00818913d0750617cf34"
+    },
+    {
+      "path": "png/pay24-mark-mono-white-512w.png",
+      "bytes": 33976,
+      "sha256": "1e3b93ba39c63085eef06c6b5cadbeb2a701360f970887f285f28d6c7b48455f"
+    },
+    {
+      "path": "png/pay24-mark-on-light-128w.png",
+      "bytes": 7683,
+      "sha256": "ae738ac75ea5978c7690b91d3d07edb208c025d7ebdd59f4ffd26c76682a78df"
+    },
+    {
+      "path": "png/pay24-mark-on-light-256w.png",
+      "bytes": 16788,
+      "sha256": "c1c20f9174ad462fb4e7deb8f979fcca6a90f431321e24bfbf22297cf006910d"
+    },
+    {
+      "path": "png/pay24-mark-on-light-512w.png",
+      "bytes": 35633,
+      "sha256": "e32cdbd9d41a5f08f220f2b48217e8a237e6a3952570044e79a230d6541c2838"
+    },
+    {
+      "path": "png/pay24-stacked-on-dark-1080w.png",
+      "bytes": 53593,
+      "sha256": "cb3b2f602b0f0dbf214acd4417db7c8c651a1de046076a3b4ec5f3baec5fa1d5"
+    },
+    {
+      "path": "png/pay24-stacked-on-light-1080w.png",
+      "bytes": 55365,
+      "sha256": "eb7661fa499644b746b82be44de30e49eb97f814634e611c38f2f483591326bb"
+    },
+    {
+      "path": "png/pay24-wordmark-on-dark-1200w.png",
+      "bytes": 27251,
+      "sha256": "ebdca8075ade1b7e29ade82c5b867e84b7fbf04c461b70f772f5fb54a9b39bb8"
+    },
+    {
+      "path": "png/pay24-wordmark-on-light-1200w.png",
+      "bytes": 27719,
+      "sha256": "a1096145f89f10efef9982083149ba67fa57bb86f2887b014956e0dff414f04e"
+    },
+    {
+      "path": "previews/logo-dark-light-preview.png",
+      "bytes": 81199,
+      "sha256": "34eafda7a71f74dc9a1ad34128140b392e3657f3dc88fc7719181ec2120378e0"
+    },
+    {
+      "path": "svg/pay24-app-icon.svg",
+      "bytes": 3125,
+      "sha256": "9bbdd673a5410e8d8aa04c356ce7d5720164bead8434bbefd3e0bc826173fdd5"
+    },
+    {
+      "path": "svg/pay24-favicon.svg",
+      "bytes": 3174,
+      "sha256": "7b208e8ba509f38ede5d915cb5541c501fd0379f1d2bed534f129a210d9492e8"
+    },
+    {
+      "path": "svg/pay24-horizontal-mono-black.svg",
+      "bytes": 5084,
+      "sha256": "d3564ea078d61067a6ecf4109404b80467a568594c83a8304d07a5ac0d867e45"
+    },
+    {
+      "path": "svg/pay24-horizontal-mono-white.svg",
+      "bytes": 5084,
+      "sha256": "41d5eb17467273b1badc4ff575bfa64c1d80a7b0084acb816871e9f0f1df8b4f"
+    },
+    {
+      "path": "svg/pay24-horizontal-on-dark.svg",
+      "bytes": 5081,
+      "sha256": "9937c74e67cde50b3f744200ee1cf9499638e8eb850b94fbe5b8ab99169ad6c9"
+    },
+    {
+      "path": "svg/pay24-horizontal-on-light.svg",
+      "bytes": 5082,
+      "sha256": "07dc218b59a77ec45e8d9014523feca63cc2560ecbb601415fb7aff762be5cbe"
+    },
+    {
+      "path": "svg/pay24-mark-master.svg",
+      "bytes": 3091,
+      "sha256": "27e0d470bb3b2a680a4a554eaf6e1afd86d559a0d89ddb78dbc89a01c5646e72"
+    },
+    {
+      "path": "svg/pay24-mark-mono-black.svg",
+      "bytes": 3094,
+      "sha256": "f34377108f36584577f954bfe9defcc25827152617e916e90eddc9a4e10c81a6"
+    },
+    {
+      "path": "svg/pay24-mark-mono-white.svg",
+      "bytes": 3094,
+      "sha256": "cfe693fd7e547dedce9f95f5e59859fec0b81a60d35877d7089b01a85d6bebb7"
+    },
+    {
+      "path": "svg/pay24-mark-on-dark.svg",
+      "bytes": 3091,
+      "sha256": "27e0d470bb3b2a680a4a554eaf6e1afd86d559a0d89ddb78dbc89a01c5646e72"
+    },
+    {
+      "path": "svg/pay24-mark-on-light.svg",
+      "bytes": 3092,
+      "sha256": "eccdbc6dae09d08f721ad81973c2d5cf990df628bc50ed40151f7a6aac197e8c"
+    },
+    {
+      "path": "svg/pay24-mark-reference-trace.svg",
+      "bytes": 3106,
+      "sha256": "b0eba7c759b4dbde674e71282c9a23f5c2e1eb34f4a535441845def6ec7306b5"
+    },
+    {
+      "path": "svg/pay24-stacked-on-dark.svg",
+      "bytes": 5058,
+      "sha256": "64e36df817b1eecafd968ab12c30e763541f6f4b44e6e56b59c71c4a8f5e48f5"
+    },
+    {
+      "path": "svg/pay24-stacked-on-light.svg",
+      "bytes": 5059,
+      "sha256": "9d7a558c23638c10c693a5a1c096f305ba6f2b3bba854e6ae869c7073a690ac9"
+    },
+    {
+      "path": "svg/pay24-wordmark-on-dark.svg",
+      "bytes": 2281,
+      "sha256": "05134319e7813896cebe27d50a3c0b70e7110cf7e72922c58b43f0f26aad90a3"
+    },
+    {
+      "path": "svg/pay24-wordmark-on-light.svg",
+      "bytes": 2282,
+      "sha256": "0c89576b235562f1370e72c6e94f86bfd9e85aa2923cbb2c28269174d8d54791"
+    },
+    {
+      "path": "webp/pay24-app-icon-1024w.webp",
+      "bytes": 27948,
+      "sha256": "e08be815ceef4425d2594eb837959505b7ec6c75048feb267c1dd258b715a1c7"
+    },
+    {
+      "path": "webp/pay24-app-icon-256w.webp",
+      "bytes": 6476,
+      "sha256": "356f9a2fbc9ab1978643881f40cebccd81c0bf96609bd706138f1f374a1a5a2f"
+    },
+    {
+      "path": "webp/pay24-app-icon-512w.webp",
+      "bytes": 13458,
+      "sha256": "f8e8506e653ad75122a0da7e89c28b767c3e2b9b203665e348e449c08e81e5ec"
+    },
+    {
+      "path": "webp/pay24-horizontal-mono-black-1200w.webp",
+      "bytes": 17162,
+      "sha256": "81fffd1adfa5ec374442cff9e81876d405ad1b462acdde51863a9788a36f37e3"
+    },
+    {
+      "path": "webp/pay24-horizontal-mono-white-1200w.webp",
+      "bytes": 14976,
+      "sha256": "aaa047291378ef23592206684f17b739e40b3e699a9facae8621baebc55dd2f6"
+    },
+    {
+      "path": "webp/pay24-horizontal-on-dark-1200w.webp",
+      "bytes": 18722,
+      "sha256": "744477372d4b0967415e9a4a5395b4bb7e92e400b7bb9218eab134469595dc8b"
+    },
+    {
+      "path": "webp/pay24-horizontal-on-dark-2400w.webp",
+      "bytes": 37948,
+      "sha256": "879b0b547cfec4774c1276afb990e4db326dd9dd4c49c3832453083827b41b72"
+    },
+    {
+      "path": "webp/pay24-horizontal-on-light-1200w.webp",
+      "bytes": 20400,
+      "sha256": "2788bc9ac628f47f8710aaae073b3cb1a9f745b35793007478b3952b690c9cd8"
+    },
+    {
+      "path": "webp/pay24-horizontal-on-light-2400w.webp",
+      "bytes": 41362,
+      "sha256": "052a51bc19b8848673c6ce34e52ade15e47addf32f725eda2465bb039f647c23"
+    },
+    {
+      "path": "webp/pay24-mark-master-1024w.webp",
+      "bytes": 34238,
+      "sha256": "e0c69d9a32cc8fad76dda027e2a51573b83677155408e1c8a276e0833148d21e"
+    },
+    {
+      "path": "webp/pay24-mark-master-256w.webp",
+      "bytes": 7562,
+      "sha256": "316271ba999434b45639d0418c960a5545385af8a10b3e9a9802eb2bfe537d81"
+    },
+    {
+      "path": "webp/pay24-mark-master-512w.webp",
+      "bytes": 15874,
+      "sha256": "5602c88e1939238a9a19c353ae95e6d48c397b64cb3eb5c92bdc2f1a14f12e4e"
+    },
+    {
+      "path": "webp/pay24-mark-mono-black-512w.webp",
+      "bytes": 16604,
+      "sha256": "adf5dabbb729a472eafc2e2bc8e46bd8c95a405f9b093aaf1fb694716d242711"
+    },
+    {
+      "path": "webp/pay24-mark-mono-white-512w.webp",
+      "bytes": 14700,
+      "sha256": "9b087275ad2f367dcbca180c23ea1a837727cac7838f3fe8a5940496d195fc69"
+    },
+    {
+      "path": "webp/pay24-mark-on-light-256w.webp",
+      "bytes": 8484,
+      "sha256": "780011592acc508fbd9f6015aeae8b9455026ba13f3f0bfeef058b6cd725fcdc"
+    },
+    {
+      "path": "webp/pay24-mark-on-light-512w.webp",
+      "bytes": 17212,
+      "sha256": "332aa7608f6103ca38125179bca7955bd139552107f37af5fff13a00a0acde1f"
+    },
+    {
+      "path": "webp/pay24-stacked-on-dark-1080w.webp",
+      "bytes": 27126,
+      "sha256": "3941f7ebfdb6514e550a142337682799acddbf058990c1fb1f94ba82df8cc3ca"
+    },
+    {
+      "path": "webp/pay24-stacked-on-light-1080w.webp",
+      "bytes": 28840,
+      "sha256": "0690915409cb65dcaaaa9dddd214fa4e20cd2208b07bb4ca27d4c2ff9f1be96c"
+    },
+    {
+      "path": "webp/pay24-wordmark-on-dark-1200w.webp",
+      "bytes": 15470,
+      "sha256": "807669768cc91a11735d17045475cec5e5b56579bd40df2ebee19cfc03596e9d"
+    },
+    {
+      "path": "webp/pay24-wordmark-on-light-1200w.webp",
+      "bytes": 16576,
+      "sha256": "a4dbbaec141ad914fe56381fc713e8b280c0df475e33d77205d9c615d9e97e6b"
+    }
+  ],
+  "total": 74
+}

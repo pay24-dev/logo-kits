@@ -1,0 +1,9 @@
+{
+  "brand": "Pay24.now",
+  "palette": {
+    "charcoal": "#121212",
+    "nearWhite": "#FAFAFA",
+    "emerald": "#3ECF8E"
+  },
+  "scope": "logo only, not full semantic fintech token scheme"
+}
