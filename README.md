@@ -1,44 +1,117 @@
-# Pay24.now — Final logo asset family
+# Pay24.now — Logo Kit
 
-**Selected visual direction:** The geometric, futuristic custom lettering in the provided transparent typography screenshot. An exact font family **cannot be verified**, because this is AI-generated artwork. It must not be labeled Inter, a named font, or a typeface available for installation.
+[![GitHub branch](https://img.shields.io/badge/branch-development-0969da)](https://github.com/pay24-dev/logo-kits/tree/development) [![Asset catalog](https://img.shields.io/badge/assets-catalog-3ECF8E)](assets/CATALOG.md)
 
-**Canonical source:** all `svg/` assets are scalable vector shapes without live text, fonts, images or external dependencies. All PNG and WebP derivatives are rendered from these very SVGs. The brand spelling `Pay24.now` is immutable.
+A public, organized asset library for **Pay24.now** logos, wordmarks, app icons and favicons. Files are available directly through GitHub and its raw content host, or via **jsDelivr CDN**. No package manager, build process or API key is required to consume the files.
 
-## Provenance and construction
-- `original/pay24-original-400.png`: untouched user-supplied logo reference (400×400); 22 white-ish segmented radial strokes and distinctive forked green V element.
-- `original/typography-reference-user-selected.png`: untouched user-selected generated lettering screenshot (1536×1024).
-- Brand wordmark: traced outline paths of the selected custom lettering. Previous Inter Display Bold design version was **not an exact match**; it is superseded for logo typography.
-- Source palette: charcoal `#121212`, near-white `#FAFAFA`, emerald `#3ECF8E`.
+![Pay24.now app icon](assets/v2/png/pay24-app-icon-256w.png)
 
-## Variants and usage
-| Context | File |
+> **Visual provenance:** `v2` is the newer traced-logo collection using custom outlined lettering; `v1` preserves earlier artwork. The exact original typeface cannot be established. A selected typography screenshot described by prior documentation is not present in this repository. These assets are not a representation of trademark clearance or independent production/accessibility approval.
+
+## Quick start
+
+**Recommended primary logo for a dark background** (SVG):
+
+| Access method | Direct link |
 | --- | --- |
-| Dark page header | `svg/pay24-horizontal-on-dark.svg` |
-| Light page header | `svg/pay24-horizontal-on-light.svg` |
-| Colored .now (optional) | `svg/pay24-horizontal-accent-on-dark.svg` |
-| Stacked | `svg/pay24-stacked-on-dark.svg` |
-| Wordmark alone | `svg/pay24-wordmark-on-dark.svg` |
-| Symbol alone | `svg/pay24-mark-on-dark.svg` |
-| One-color print | `svg/pay24-horizontal-mono-white.svg` / `svg/pay24-horizontal-mono-black.svg` |
-| Application logo | `svg/pay24-app-icon.svg` |
-| Favicon | `favicon/favicon.svg`, `favicon/favicon.ico` |
+| GitHub file page | [View SVG](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/svg/pay24-horizontal-on-dark.svg) |
+| GitHub raw/direct | [Download SVG](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/svg/pay24-horizontal-on-dark.svg) |
+| jsDelivr CDN | [Serve SVG](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/svg/pay24-horizontal-on-dark.svg) |
 
-Dark/light versions invert the neutral foreground while keeping the green V. The accent variants only tint the `.now` outlines green. Monochrome versions intentionally eliminate all accent colors.
+**Copy into HTML** (use the on-light variant when the surrounding surface is light):
 
-## Export behavior
-- `svg/`: canonical paths, transparent backgrounds except app tiles.
-- `png/`: transparent lockups and opaque app icons at multiple resolutions.
-- `webp/`: matching lossless web exports.
-- `favicon/`: ICO, SVG and scaled PNG.
-- `previews/`: presentation composites — **not canonical logo artwork**.
-- `original/`: preserve unchanged for provenance.
+```html
+<img
+  src="https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/svg/pay24-horizontal-on-dark.svg"
+  alt="Pay24.now"
+  width="220"
+  height="60"
+/>
+```
 
-## Rules
-- Do not swap wordmark for an installed font, distort the silhouette, alter lettering or punctuation, or use dark text on a dark surface.
-- Never turn 22 segments into another count or merge the forked green V into a single wedge.
-- Keep provisional clear space of at least 15% of symbol width on each side.
-- Check 16px favicon and 80px full logo legibility in actual browsers before production.
-- Brand green is not proof of a completed payment or another financial status.
-- Logo art is an approved visual *direction*; trademark clearance, legal release and practical accessibility of each final placement remain separate reviews.
+**CSS background image:**
 
-Also read `TYPOGRAPHY.md`, `LOGO-SPEC.md`, and `ASSET-MANIFEST.json`.
+```css
+.pay24-logo {
+  width: 220px;
+  height: 60px;
+  background: url("https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/svg/pay24-horizontal-on-light.svg")
+    center / contain no-repeat;
+}
+```
+
+## Recommended assets
+
+All links below target the **development** branch and describe actual tracked files.
+
+| Purpose | GitHub | Raw file | jsDelivr |
+| --- | --- | --- | --- |
+| Horizontal / dark surface SVG | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/svg/pay24-horizontal-on-dark.svg) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/svg/pay24-horizontal-on-dark.svg) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/svg/pay24-horizontal-on-dark.svg) |
+| Horizontal / light surface SVG | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/svg/pay24-horizontal-on-light.svg) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/svg/pay24-horizontal-on-light.svg) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/svg/pay24-horizontal-on-light.svg) |
+| Stacked / dark surface SVG | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/svg/pay24-stacked-on-dark.svg) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/svg/pay24-stacked-on-dark.svg) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/svg/pay24-stacked-on-dark.svg) |
+| Standalone wordmark SVG | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/svg/pay24-wordmark-on-dark.svg) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/svg/pay24-wordmark-on-dark.svg) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/svg/pay24-wordmark-on-dark.svg) |
+| Logo symbol SVG | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/svg/pay24-mark-master.svg) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/svg/pay24-mark-master.svg) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/svg/pay24-mark-master.svg) |
+| Application icon SVG | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/svg/pay24-app-icon.svg) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/svg/pay24-app-icon.svg) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/svg/pay24-app-icon.svg) |
+| Horizontal / dark 1200px PNG | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/png/pay24-horizontal-on-dark-1200w.png) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/png/pay24-horizontal-on-dark-1200w.png) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/png/pay24-horizontal-on-dark-1200w.png) |
+| Horizontal / dark 1200px WebP | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/webp/pay24-horizontal-on-dark-1200w.webp) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/webp/pay24-horizontal-on-dark-1200w.webp) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/webp/pay24-horizontal-on-dark-1200w.webp) |
+| Favicon SVG | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/favicon/favicon.svg) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/favicon/favicon.svg) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/favicon/favicon.svg) |
+| Favicon ICO | [View](https://github.com/pay24-dev/logo-kits/blob/development/assets/v2/favicon/favicon.ico) | [Direct](https://raw.githubusercontent.com/pay24-dev/logo-kits/development/assets/v2/favicon/favicon.ico) | [CDN](https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/assets/v2/favicon/favicon.ico) |
+
+For **every available file**, use the [complete asset catalog](assets/CATALOG.md) with individually linked GitHub, Raw and CDN locations, or the [machine-readable inventory](assets/manifest.json).
+
+## Directory structure
+
+```text
+assets/
+  v2/                 Newer custom-lettering set (recommended where available)
+    svg/               Vector logo artwork
+    png/               Size-specific raster exports
+    webp/              Web-optimized raster exports
+    favicon/           Multi-size favicon and ICO
+  v1/                 Earlier asset generation, preserved without alteration
+    svg/
+    png/
+    webp/
+    favicon/
+  previews/            Review boards (not canonical logo masters)
+  reference/           Supplied source image and generated concept images
+    concepts/
+  CATALOG.md           Exhaustive clickable index
+  manifest.json        Machine-readable file paths, byte sizes, Git blob IDs and old paths
+docs/
+  LOGO-SPEC.md         Brand geometry, colors and usage notes
+  TYPOGRAPHY.md        Outlined lettering provenance
+  COLORS.json          Logo-only color palette
+  archive/             Original manifests and superseded documentation
+```
+
+## URL patterns
+
+For an exact tracked relative path (for example `assets/v2/svg/pay24-horizontal-on-dark.svg`):
+
+```text
+GitHub browser: https://github.com/pay24-dev/logo-kits/blob/development/<path>
+GitHub raw:     https://raw.githubusercontent.com/pay24-dev/logo-kits/development/<path>
+jsDelivr:       https://cdn.jsdelivr.net/gh/pay24-dev/logo-kits@development/<path>
+```
+
+The branch name `development` is **mutable**. For production, replace `@development` in jsDelivr URLs with a release tag or **full commit SHA**, and replace `/development/` in raw URLs with the same tag or SHA. Pinned URLs avoid changes when a branch is updated; branch-backed CDN content may be cached and is not an instant-deployment mechanism. This branch has not been merged to `main`.
+
+## Selection, formats and accessibility
+
+- Choose `on-dark` for dark backgrounds and `on-light` for light backgrounds; filenames describe the intended **surface**, not the logo's own backdrop.
+- Prefer vector SVG for layout/headers; use PNG when raster transparency or broad compatibility is required, and WebP for optimized web images.
+- Use `favicon.svg`, `favicon.ico` or sized favicon PNGs for the browser tab/app icon. Not every `v2` SVG has corresponding raster exports; inspect the catalog rather than guessing a file path.
+- Preserve proportions and letterforms, particularly the forked green accent and the `Pay24.now` spelling. Provide an accessible text name when the logo is informative; avoid duplicating adjacent brand labels in screen-reader output.
+- Colors: charcoal `#121212`, near-white `#FAFAFA`, emerald `#3ECF8E`. The green accent is **not** an indicator of payment success.
+- Browser-specific rendering and small-size legibility checks, trademark review and usage rights are independent of this file organization.
+
+## Asset maintenance
+
+Filenames use **lowercase kebab-case** with explicit purpose, surface, width (such as `1200w`) and file extension. The migration kept all original binary content by reusing original Git blob objects; `source_path` in `assets/manifest.json` records the prior location. Avoid mixing `v1` and `v2` artwork within one branded composition without a design review.
+
+See [asset catalog](assets/CATALOG.md), [logo specification](docs/LOGO-SPEC.md), [typography notes](docs/TYPOGRAPHY.md), [palette](docs/COLORS.json) and [change history](CHANGELOG.md).
+
+## Licensing
+
+The repository holds Pay24.now brand artwork. **No general open-source license or trademark-use grant is implied by public access.** Obtain permission from the relevant rights holder for uses requiring authorization.
