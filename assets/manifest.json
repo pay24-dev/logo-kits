@@ -1,0 +1,1386 @@
+{
+  "schema_version": 1,
+  "repository": "pay24-dev/logo-kits",
+  "branch": "development",
+  "brand": "Pay24.now",
+  "asset_count": 196,
+  "generation_policy": {
+    "v1": "Previous asset design generation",
+    "v2": "Newer custom-outline asset generation",
+    "reference": "Source/reference assets and review previews"
+  },
+  "files": [
+    {
+      "path": "assets/previews/logo-dark-light-preview.png",
+      "source_path": "assets/brand/logo/previews/logodarklightpreview.png",
+      "size_bytes": 81199,
+      "git_blob_sha": "f69a48c37783d9b67a2c8b31896af0e777ab1e3b",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/previews/pay24-brand-logo-board.png",
+      "source_path": "assets/brand/logo/png/pay24brandlogoboard.png",
+      "size_bytes": 108515,
+      "git_blob_sha": "d2573d7b693423ffd8026a6092e77b3fa10e8433",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/previews/pay24-dark-light.png",
+      "source_path": "assets/brand/logo/png/pay24darklight.png",
+      "size_bytes": 63992,
+      "git_blob_sha": "66de5dcd4307c62cc60f0de07c02a1b388b0f3d4",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/reference/concepts/concept-01.png",
+      "source_path": "assets/brand/logo/png/ChatGPT Image Oct16, 2026, 030248 AM2.png",
+      "size_bytes": 816981,
+      "git_blob_sha": "cca49abd08a022eeb27d336487ebd070c7ba3ae5",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/reference/concepts/concept-02.png",
+      "source_path": "assets/brand/logo/png/ChatGPT Image Oct16, 2026, 030248 AMn.png",
+      "size_bytes": 538535,
+      "git_blob_sha": "7eb4bc73bd4c5d62bc3dae8ded0db7d7b51bcba6",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/reference/concepts/concept-03.png",
+      "source_path": "assets/brand/logo/png/ChatGPT Image Oct16, 2026, 030249 AM3.png",
+      "size_bytes": 335556,
+      "git_blob_sha": "26b2316789073f94bac9a44bbb63cd4e919e259c",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/reference/concepts/concept-04.png",
+      "source_path": "assets/brand/logo/png/ChatGPT Image Oct16, 2026, 030250 AM4.png",
+      "size_bytes": 452192,
+      "git_blob_sha": "c1a4c449f42d055cb5d4364cf3eac89b0c5f60ad",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/reference/concepts/concept-05.png",
+      "source_path": "assets/brand/logo/png/ChatGPT Image Oct16, 2026, 030251 AM5.png",
+      "size_bytes": 731401,
+      "git_blob_sha": "b985da42643f7a5a5315a69b844eeadd257ce332",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/reference/concepts/concept-06.png",
+      "source_path": "assets/brand/logo/png/ChatGPT Image Oct16, 2026, 030251 AM6.png",
+      "size_bytes": 964191,
+      "git_blob_sha": "e62dcc3471a8c13be776f638755c11ac46a56458",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/reference/pay24-reference-400.png",
+      "source_path": "assets/brand/logo/original/pay24reference400.png",
+      "size_bytes": 13353,
+      "git_blob_sha": "eb2cd170f610fa51a6aece6324f844f280b45f3e",
+      "generation": "reference"
+    },
+    {
+      "path": "assets/v1/favicon/favicon-128.png",
+      "source_path": "assets/brand/logo/favicon/favicon128.png",
+      "size_bytes": 6580,
+      "git_blob_sha": "fadc2137653e861e337cb11ad87b68f218a29cab",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/favicon/favicon-16.png",
+      "source_path": "assets/brand/logo/favicon/favicon16.png",
+      "size_bytes": 478,
+      "git_blob_sha": "a4d1dcb35b27a32b6dea6face9762a806c95c81d",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/favicon/favicon-256.png",
+      "source_path": "assets/brand/logo/favicon/favicon256.png",
+      "size_bytes": 14639,
+      "git_blob_sha": "b51882e129d09b6413ec523ce4487dab22811bca",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/favicon/favicon-32.png",
+      "source_path": "assets/brand/logo/favicon/favicon32.png",
+      "size_bytes": 1273,
+      "git_blob_sha": "bfbaab70e2be60e67124fd4084a9c359fd3086bc",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/favicon/favicon-48.png",
+      "source_path": "assets/brand/logo/favicon/favicon48.png",
+      "size_bytes": 2158,
+      "git_blob_sha": "01021e40a84b6eac54fae149609fa16fe7fdc83b",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/favicon/favicon-64.png",
+      "source_path": "assets/brand/logo/favicon/favicon64.png",
+      "size_bytes": 2993,
+      "git_blob_sha": "129ed827cf5bcca62dc827382ebc8ae15793810a",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/favicon/favicon.ico",
+      "source_path": "assets/brand/logo/favicon/favicon.ico",
+      "size_bytes": 35149,
+      "git_blob_sha": "94542241989cda993ba2f4bf92e284da7551d888",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/favicon/favicon.svg",
+      "source_path": "assets/brand/logo/favicon/favicon.svg",
+      "size_bytes": 3174,
+      "git_blob_sha": "cb0ad79a273774505bb62e002d0826d4c6800d94",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-ic-on-light-1024w.png",
+      "source_path": "assets/brand/logo/png/pay24appiconlight1024w.png",
+      "size_bytes": 39783,
+      "git_blob_sha": "3cc864adaa6f1fa3d1012cd17079c044849f3123",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-ic-on-light-256w.png",
+      "source_path": "assets/brand/logo/png/pay24appiconlight256w.png",
+      "size_bytes": 11376,
+      "git_blob_sha": "c1b321d0889b296a43d3fc7a16e6b5e8b44ce1c1",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-ic-on-light-512w.png",
+      "source_path": "assets/brand/logo/png/pay24appiconlight512w.png",
+      "size_bytes": 21493,
+      "git_blob_sha": "04c8327f9f28cdf4eac3c69155390efd0fb27d34",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-icon-1024w.png",
+      "source_path": "assets/brand/logo/png/pay24appicon1024w.png",
+      "size_bytes": 63782,
+      "git_blob_sha": "bf72130c2089256cde206fe6f6f52179d50b9667",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-icon-128w.png",
+      "source_path": "assets/brand/logo/png/pay24appicon128w.png",
+      "size_bytes": 5904,
+      "git_blob_sha": "39cbbf04830cd6fd25b7c214eb66eaca0f54851b",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-icon-256w.png",
+      "source_path": "assets/brand/logo/png/pay24appicon256w.png",
+      "size_bytes": 13742,
+      "git_blob_sha": "acb8e86cbb45d4733a16e49167642943af4f0939",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-icon-512w.png",
+      "source_path": "assets/brand/logo/png/pay24appicon512w.png",
+      "size_bytes": 29669,
+      "git_blob_sha": "5090784e8021aed24d08b7e471142e89abd29e98",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-icon-green-1024w.png",
+      "source_path": "assets/brand/logo/png/pay24appicongreen1024w.png",
+      "size_bytes": 40301,
+      "git_blob_sha": "98aeb01a599421c0ac8141bc0904bbfa1e045653",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-icon-green-256w.png",
+      "source_path": "assets/brand/logo/png/pay24appicongreen256w.png",
+      "size_bytes": 11607,
+      "git_blob_sha": "6467e25f3186c85f171b60b64b1a5abab0caa8d5",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-app-icon-green-512w.png",
+      "source_path": "assets/brand/logo/png/pay24appicongreen512w.png",
+      "size_bytes": 21794,
+      "git_blob_sha": "f8bf6eece913e96a6e79633db380e8b6b89e844a",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-accent-on-dark-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalaccentondark1200w.png",
+      "size_bytes": 31983,
+      "git_blob_sha": "3f73623885143e831066ff755c0a839dbcba5827",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-accent-on-dark-2400w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalaccentondark2400w.png",
+      "size_bytes": 66158,
+      "git_blob_sha": "d1c5165c661fcf4ef8bf0c82294d7ba61396d31f",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-accent-on-light-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalaccentonlight1200w.png",
+      "size_bytes": 32797,
+      "git_blob_sha": "b7c463425a8a002885ec47fc05f48d27c011d225",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-accent-on-light-2400w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalaccentonlight2400w.png",
+      "size_bytes": 67598,
+      "git_blob_sha": "0cf9d70220c0d2a06ef783951ba5a6133cccd38d",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-mono-black-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalmonoblack1200w.png",
+      "size_bytes": 35557,
+      "git_blob_sha": "7807be71b3c318b22cb3d385dee9d34affff95ae",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-mono-white-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalmonowhite1200w.png",
+      "size_bytes": 34537,
+      "git_blob_sha": "fc5517f2ea424d2aa3ff2f96fa6efce38b640776",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-on-dark-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalondark1200w.png",
+      "size_bytes": 36073,
+      "git_blob_sha": "49eae0a6b36f5e580e48eca954af7470317a6d66",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-on-dark-2400w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalondark2400w.png",
+      "size_bytes": 77909,
+      "git_blob_sha": "94ec769c553b97b94091fee83f9f6573204b8a46",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-on-light-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalonlight1200w.png",
+      "size_bytes": 37033,
+      "git_blob_sha": "8857489132da03e986ff1afc3b4bebdb6a968af4",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-horizontal-on-light-2400w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalonlight2400w.png",
+      "size_bytes": 79507,
+      "git_blob_sha": "23ee2c69f3c344fa7335e979fb9aed891a225c84",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-master-1024w.png",
+      "source_path": "assets/brand/logo/png/pay24markmaster1024w.png",
+      "size_bytes": 73028,
+      "git_blob_sha": "de988e83271c9b25935935e2c000f4d93caa2b31",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-master-128w.png",
+      "source_path": "assets/brand/logo/png/pay24markmaster128w.png",
+      "size_bytes": 7240,
+      "git_blob_sha": "302f169bd49996cb641590b77610e848974a698d",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-master-256w.png",
+      "source_path": "assets/brand/logo/png/pay24markmaster256w.png",
+      "size_bytes": 16005,
+      "git_blob_sha": "69367a6ef5273a053f1c0944056c9a893791e2ec",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-master-32w.png",
+      "source_path": "assets/brand/logo/png/pay24markmaster32w.png",
+      "size_bytes": 1356,
+      "git_blob_sha": "98bd531a2d57b7c03dfd673d3293cf3f698cc427",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-master-512w.png",
+      "source_path": "assets/brand/logo/png/pay24markmaster512w.png",
+      "size_bytes": 34374,
+      "git_blob_sha": "2a20f174aa9c982739e82dcf23dc67ee1d15e22d",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-master-64w.png",
+      "source_path": "assets/brand/logo/png/pay24markmaster64w.png",
+      "size_bytes": 3132,
+      "git_blob_sha": "b13ee7dc1c73d479b2bf84c4376a9dc8cb080ddf",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-mono-black-128w.png",
+      "source_path": "assets/brand/logo/png/pay24markmonoblack128w.png",
+      "size_bytes": 7545,
+      "git_blob_sha": "a8ed0b52c4a1b3f9df40d9e4d5e4b9d0ad52ef5e",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-mono-black-512w.png",
+      "source_path": "assets/brand/logo/png/pay24markmonoblack512w.png",
+      "size_bytes": 35211,
+      "git_blob_sha": "78c6cfe3176313673f4efebd6c35e1c17fb25dfe",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-mono-white-128w.png",
+      "source_path": "assets/brand/logo/png/pay24markmonowhite128w.png",
+      "size_bytes": 7095,
+      "git_blob_sha": "7154779e4cd8071212365422fad919c0f2b117d8",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-mono-white-512w.png",
+      "source_path": "assets/brand/logo/png/pay24markmonowhite512w.png",
+      "size_bytes": 33976,
+      "git_blob_sha": "4b69421535e78cf7d2e22e658872a558c7ea80cd",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-on-dark-1024w.png",
+      "source_path": "assets/brand/logo/png/pay24markondark1024w.png",
+      "size_bytes": 45406,
+      "git_blob_sha": "b0856077aaca472b1cb92610eb4787ef33c41c69",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-on-dark-128w.png",
+      "source_path": "assets/brand/logo/png/pay24markondark128w.png",
+      "size_bytes": 6535,
+      "git_blob_sha": "c53d34dc6eb0dfec85a5d990ec1bb7e1c58539d0",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-on-dark-256w.png",
+      "source_path": "assets/brand/logo/png/pay24markondark256w.png",
+      "size_bytes": 12954,
+      "git_blob_sha": "385ef212838f86401f09460e72b5c52ea89d79ab",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-on-dark-512w.png",
+      "source_path": "assets/brand/logo/png/pay24markondark512w.png",
+      "size_bytes": 24305,
+      "git_blob_sha": "4adf42d0516cb3cd5abb86889a68310d5f5ea4ac",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-on-dark-64w.png",
+      "source_path": "assets/brand/logo/png/pay24markondark64w.png",
+      "size_bytes": 3159,
+      "git_blob_sha": "d6eb8cc4248906607acd256a493f74f2726220d5",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-on-light-1024w.png",
+      "source_path": "assets/brand/logo/png/pay24markonlight1024w.png",
+      "size_bytes": 47620,
+      "git_blob_sha": "fee4afb14f87e248e793a8e18f0d701ef12b9672",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-on-light-128w.png",
+      "source_path": "assets/brand/logo/png/pay24markonlight128w.png",
+      "size_bytes": 7683,
+      "git_blob_sha": "e9df498a752e3b1308c69b29807c4c7f3eede6d1",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-on-light-256w.png",
+      "source_path": "assets/brand/logo/png/pay24markonlight256w.png",
+      "size_bytes": 16788,
+      "git_blob_sha": "cf46a0cbd9ba50a05c6992ae326a82079a3a8e51",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-mark-on-light-512w.png",
+      "source_path": "assets/brand/logo/png/pay24markonlight512w.png",
+      "size_bytes": 35633,
+      "git_blob_sha": "176dc5abed10445423823a179d77e845273b66b2",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-stacked-accent-on-dark-800w.png",
+      "source_path": "assets/brand/logo/png/pay24stackedaccentondark800w.png",
+      "size_bytes": 27721,
+      "git_blob_sha": "6a1200ba1e77e409a088b47b1fcc830ee2323096",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-stacked-accent-on-light-800w.png",
+      "source_path": "assets/brand/logo/png/pay24stackedaccentonlight800w.png",
+      "size_bytes": 28623,
+      "git_blob_sha": "292e75e23886a2ca0e13db53572c4a8ffb8b0b12",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-stacked-on-dark-1080w.png",
+      "source_path": "assets/brand/logo/png/pay24stackedondark1080w.png",
+      "size_bytes": 53593,
+      "git_blob_sha": "482330e99f9c22a903a21a8eaad32d7de389342d",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-stacked-on-dark-1600w.png",
+      "source_path": "assets/brand/logo/png/pay24stackedondark1600w.png",
+      "size_bytes": 56105,
+      "git_blob_sha": "64c5ab3a82aabd94c9fc2a37a7ee16988a3cba30",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-stacked-on-dark-800w.png",
+      "source_path": "assets/brand/logo/png/pay24stackedondark800w.png",
+      "size_bytes": 26841,
+      "git_blob_sha": "589f4e51640705881cbfe4588903ef8c8cc4c458",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-stacked-on-light-1080w.png",
+      "source_path": "assets/brand/logo/png/pay24stackedonlight1080w.png",
+      "size_bytes": 55365,
+      "git_blob_sha": "b78e4477ec341b6aa3eca00b1b046575b9b85651",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-stacked-on-light-1600w.png",
+      "source_path": "assets/brand/logo/png/pay24stackedonlight1600w.png",
+      "size_bytes": 57868,
+      "git_blob_sha": "bac1ee84539e24fbc0f7a61c2ffc5540c8fef315",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-stacked-on-light-800w.png",
+      "source_path": "assets/brand/logo/png/pay24stackedonlight800w.png",
+      "size_bytes": 27905,
+      "git_blob_sha": "1f7c46b9083d189be47a89f62a79be1bcec7179b",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-wordmark-accent-on-dark-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24wordmarkaccentondark1200w.png",
+      "size_bytes": 23722,
+      "git_blob_sha": "702aa86b1e4328300c6e694959754a429048f479",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-wordmark-accent-on-light-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24wordmarkaccentonlight1200w.png",
+      "size_bytes": 24226,
+      "git_blob_sha": "352ea7b5332a7240e7dface6e8f70e829f048c4f",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-wordmark-on-dark-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24wordmarkondark1200w.png",
+      "size_bytes": 27251,
+      "git_blob_sha": "dacf0b3d5c0d51bb8c114d59058652ba328bb570",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/png/pay24-wordmark-on-light-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24wordmarkonlight1200w.png",
+      "size_bytes": 27719,
+      "git_blob_sha": "6858b4bf36dd4d312ffc302c66c7e6425b4f1702",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-app-ic-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24appiconlight.svg",
+      "size_bytes": 3074,
+      "git_blob_sha": "8e1af567568acea5b6cec2ccd8e76061e6ce1c5c",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-app-icon-green.svg",
+      "source_path": "assets/brand/logo/svg/pay24appicongreen.svg",
+      "size_bytes": 3074,
+      "git_blob_sha": "72785f0ff92a263747acd66bfa5e37a01ce1d344",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-app-icon.svg",
+      "source_path": "assets/brand/logo/svg/pay24appicon.svg",
+      "size_bytes": 3125,
+      "git_blob_sha": "978a0aa775009d714f3915c4f5fb9a3d41198b63",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-horizontal-accent-on-dark.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalaccentondark.svg",
+      "size_bytes": 5557,
+      "git_blob_sha": "e8c4be801cf3bde1f303e52e8c4399fd5c086486",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-horizontal-accent-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalaccentonlight.svg",
+      "size_bytes": 5559,
+      "git_blob_sha": "1830e52b0c2b6b7d7b46671fa62d44a2efd48b0b",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-horizontal-mono-black.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalmonoblack.svg",
+      "size_bytes": 5084,
+      "git_blob_sha": "d4a930d05afd9f0702a2ee1c1843749321b9b48c",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-horizontal-mono-white.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalmonowhite.svg",
+      "size_bytes": 5084,
+      "git_blob_sha": "b655551d7a39498aa666b9e2e994417be287bc5f",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-horizontal-on-dark.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalondark.svg",
+      "size_bytes": 5081,
+      "git_blob_sha": "047dc9cfd140643914e89119a138251d03a816e8",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-horizontal-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalonlight.svg",
+      "size_bytes": 5082,
+      "git_blob_sha": "70abdad321c4df88171ba84344827f0e8513881e",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-mark-master.svg",
+      "source_path": "assets/brand/logo/svg/pay24markmaster.svg",
+      "size_bytes": 3091,
+      "git_blob_sha": "43346b868182d8da61fce80c126b4af0f99a3c45",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-mark-mono-black.svg",
+      "source_path": "assets/brand/logo/svg/pay24markmonoblack.svg",
+      "size_bytes": 3094,
+      "git_blob_sha": "415ea94a93b48d5cb57219823a771902513b7219",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-mark-mono-white.svg",
+      "source_path": "assets/brand/logo/svg/pay24markmonowhite.svg",
+      "size_bytes": 3094,
+      "git_blob_sha": "9356fdf61879f6a4567d94acc10a01b1231f6bb5",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-mark-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24markonlight.svg",
+      "size_bytes": 3092,
+      "git_blob_sha": "badb991fda8f4c2d6980d71ed2706e1541b5d2b2",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-mark-reference-trace.svg",
+      "source_path": "assets/brand/logo/svg/pay24markreferencetrace.svg",
+      "size_bytes": 3106,
+      "git_blob_sha": "5ee91666b3f588ca6e7ed6bd158e4fc8fb53c186",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-stacked-accent-on-dark.svg",
+      "source_path": "assets/brand/logo/svg/pay24stackedaccentondark.svg",
+      "size_bytes": 5540,
+      "git_blob_sha": "a4da659c5544e209fb6e21cebb9e4997a739414c",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-stacked-accent-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24stackedaccentonlight.svg",
+      "size_bytes": 5542,
+      "git_blob_sha": "b0bc634306ec8b3b70b83ffc58279694f71e4c70",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-stacked-on-dark.svg",
+      "source_path": "assets/brand/logo/svg/pay24stackedondark.svg",
+      "size_bytes": 5058,
+      "git_blob_sha": "59adbc2043a381238a2e953ab395ff1affe4d06f",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-stacked-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24stackedonlight.svg",
+      "size_bytes": 5059,
+      "git_blob_sha": "52484fd6445b814d8ff3acb2aa2bd5f61a3df14e",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-wordmark-accent-on-dark.svg",
+      "source_path": "assets/brand/logo/svg/pay24wordmarkaccentondark.svg",
+      "size_bytes": 2766,
+      "git_blob_sha": "5bb3f988252eadbb0cf3113df29debb2a17d4de6",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-wordmark-accent-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24wordmarkaccentonlight.svg",
+      "size_bytes": 2768,
+      "git_blob_sha": "8bcabccc90b9641fcf8f59e133399e9fde0fda26",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-wordmark-mono-black.svg",
+      "source_path": "assets/brand/logo/svg/pay24wordmarkmonoblack.svg",
+      "size_bytes": 2758,
+      "git_blob_sha": "ec1c3321e01d6b9901505be98cf56bb58b249e9f",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-wordmark-mono-white.svg",
+      "source_path": "assets/brand/logo/svg/pay24wordmarkmonowhite.svg",
+      "size_bytes": 2758,
+      "git_blob_sha": "144eb89a0eb60caca74df83c9fe51dedfe239abc",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-wordmark-on-dark.svg",
+      "source_path": "assets/brand/logo/svg/pay24wordmarkondark.svg",
+      "size_bytes": 2281,
+      "git_blob_sha": "dabcc63cceab4e4e86f97ab80e8ac32f9ce430d3",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/svg/pay24-wordmark-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24wordmarkonlight.svg",
+      "size_bytes": 2282,
+      "git_blob_sha": "4c505f977b472f574cace801bebccfbb5e7b884b",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-ic-on-light-1024w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appiconlight1024w.webp",
+      "size_bytes": 13490,
+      "git_blob_sha": "8af9973bf42cfc56d69801c7bb8184837ac425f9",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-ic-on-light-256w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appiconlight256w.webp",
+      "size_bytes": 4250,
+      "git_blob_sha": "c852b40b0ffc8c60242f5eec13c43b9abf4dd86a",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-ic-on-light-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appiconlight512w.webp",
+      "size_bytes": 8498,
+      "git_blob_sha": "137cdf4dbf674e376da9c79891369a84e4b1d70c",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-icon-1024w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicon1024w.webp",
+      "size_bytes": 27948,
+      "git_blob_sha": "49d2987fd7fd5b78f1010975db921fbb416c5543",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-icon-128w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicon128w.webp",
+      "size_bytes": 2438,
+      "git_blob_sha": "a5cf64573e410d50293137da9a420da73f38eb02",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-icon-256w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicon256w.webp",
+      "size_bytes": 6476,
+      "git_blob_sha": "40ac9577e55b5318ab9c07c167f98677c798abb7",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-icon-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicon512w.webp",
+      "size_bytes": 13458,
+      "git_blob_sha": "9e5729f6f37d1cd659bccc7893764b1db063caa8",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-icon-green-1024w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicongreen1024w.webp",
+      "size_bytes": 12766,
+      "git_blob_sha": "baa715839c951e0c9adbe10f001bd32ddd1d889f",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-icon-green-256w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicongreen256w.webp",
+      "size_bytes": 3918,
+      "git_blob_sha": "38e36679f86f08f108353ba082e4dac49a32037b",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-app-icon-green-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicongreen512w.webp",
+      "size_bytes": 7562,
+      "git_blob_sha": "875f9f74a9902e72f02e1ef724b1bcf9269adef1",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-accent-on-dark-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalaccentondark1200w.webp",
+      "size_bytes": 12424,
+      "git_blob_sha": "1c70e7b145c92cccdd3edb69547140ce7d80b253",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-accent-on-dark-2400w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalaccentondark2400w.webp",
+      "size_bytes": 21828,
+      "git_blob_sha": "37265dcdf1df9fdae8e8a5e7e5d08a04674c3e08",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-accent-on-light-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalaccentonlight1200w.webp",
+      "size_bytes": 12448,
+      "git_blob_sha": "cc85e170f2859a46c8c93654fe19a034f9bdf349",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-accent-on-light-2400w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalaccentonlight2400w.webp",
+      "size_bytes": 21890,
+      "git_blob_sha": "af766d6abeefc19489e1c95e87e76c2da8340765",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-mono-black-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalmonoblack1200w.webp",
+      "size_bytes": 17162,
+      "git_blob_sha": "c19c95143e4cbb150420ddfca9b5d73f6d500d5a",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-mono-white-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalmonowhite1200w.webp",
+      "size_bytes": 14976,
+      "git_blob_sha": "3862e2cb56ceba4fc72254ec86fe786b0dd97799",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-on-dark-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalondark1200w.webp",
+      "size_bytes": 18722,
+      "git_blob_sha": "701ce2ae7806a9e1d075ba21fdc842ae99c4e582",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-on-dark-2400w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalondark2400w.webp",
+      "size_bytes": 37948,
+      "git_blob_sha": "647b50e974f062e7881b2d163a28876fcde406af",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-on-light-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalonlight1200w.webp",
+      "size_bytes": 20400,
+      "git_blob_sha": "ffb3fc8e7daaa0694cb767cede221a10f8edc559",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-horizontal-on-light-2400w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalonlight2400w.webp",
+      "size_bytes": 41362,
+      "git_blob_sha": "e09c7cf17d4720fbef58aea99bdb1eceae93c4e2",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-master-1024w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markmaster1024w.webp",
+      "size_bytes": 34238,
+      "git_blob_sha": "19303c76c450cc792a4920fccce31e92377b698d",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-master-256w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markmaster256w.webp",
+      "size_bytes": 7562,
+      "git_blob_sha": "efdf7aec802a663737bd355ff21c217efec0f933",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-master-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markmaster512w.webp",
+      "size_bytes": 15874,
+      "git_blob_sha": "12e2016c1f4d2d044b868763ba406bf0e05e8452",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-mono-black-128w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markmonoblack128w.webp",
+      "size_bytes": 2600,
+      "git_blob_sha": "f8957345f9d442518f545e4f086ea34ad7a5f596",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-mono-black-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markmonoblack512w.webp",
+      "size_bytes": 16604,
+      "git_blob_sha": "eec64cffad76fb8becfdec311a7cf7c34fbf063d",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-mono-white-128w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markmonowhite128w.webp",
+      "size_bytes": 2526,
+      "git_blob_sha": "b6121fa8b5cc8a217b82a03d945999072ab552ce",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-mono-white-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markmonowhite512w.webp",
+      "size_bytes": 14700,
+      "git_blob_sha": "f5765aa025a382c6410203c23399cfd4d86930d3",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-on-dark-1024w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markondark1024w.webp",
+      "size_bytes": 16124,
+      "git_blob_sha": "14a8c4f0749bcc6b99541c7bba5b9d8ee42e7a50",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-on-dark-128w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markondark128w.webp",
+      "size_bytes": 3126,
+      "git_blob_sha": "930306ada68e9146e9ace8804753eb2ee0daa101",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-on-dark-256w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markondark256w.webp",
+      "size_bytes": 5620,
+      "git_blob_sha": "564394dbc3a0443bf3c36a49d45ac34b12972bba",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-on-dark-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markondark512w.webp",
+      "size_bytes": 9424,
+      "git_blob_sha": "4fb2c0777957bde6b550600582487447babc9da9",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-on-dark-64w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markondark64w.webp",
+      "size_bytes": 1588,
+      "git_blob_sha": "9c3f8c07655f03a4fca08f8316d643672c0f9452",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-on-light-1024w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markonlight1024w.webp",
+      "size_bytes": 15998,
+      "git_blob_sha": "7d9231ad5edd77245c4b2fb13f91252567485485",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-on-light-128w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markonlight128w.webp",
+      "size_bytes": 3092,
+      "git_blob_sha": "8c6a9f4db33a4b5f2e25c0285b4122f55947434c",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-on-light-256w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markonlight256w.webp",
+      "size_bytes": 8484,
+      "git_blob_sha": "deb026f17d60348fc7a2041acdf6af1200c7a7aa",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-mark-on-light-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markonlight512w.webp",
+      "size_bytes": 17212,
+      "git_blob_sha": "edc65ca0eb39677d51f6bd48325ed0a35d3ac007",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-stacked-accent-on-dark-800w.webp",
+      "source_path": "assets/brand/logo/webp/pay24stackedaccentondark800w.webp",
+      "size_bytes": 10846,
+      "git_blob_sha": "c9ad53087246e2e34c6e0248d234635e074c2c64",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-stacked-accent-on-light-800w.webp",
+      "source_path": "assets/brand/logo/webp/pay24stackedaccentonlight800w.webp",
+      "size_bytes": 10846,
+      "git_blob_sha": "22b6ecc1df5ebe63aea2fc311711633e9bda81de",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-stacked-on-dark-1080w.webp",
+      "source_path": "assets/brand/logo/webp/pay24stackedondark1080w.webp",
+      "size_bytes": 27126,
+      "git_blob_sha": "c858152b22a7c8be4e6a127ce4a86f75fe4ec223",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-stacked-on-dark-1600w.webp",
+      "source_path": "assets/brand/logo/webp/pay24stackedondark1600w.webp",
+      "size_bytes": 19742,
+      "git_blob_sha": "466169e78ecbaf06b7893fe8721487818eea45f1",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-stacked-on-dark-800w.webp",
+      "source_path": "assets/brand/logo/webp/pay24stackedondark800w.webp",
+      "size_bytes": 10286,
+      "git_blob_sha": "7381ef650635e3b93f986d56d8148616e41caaca",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-stacked-on-light-1080w.webp",
+      "source_path": "assets/brand/logo/webp/pay24stackedonlight1080w.webp",
+      "size_bytes": 28840,
+      "git_blob_sha": "1894dfcc2ec5a6f5ab08ecc8ec6a941e08291b97",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-stacked-on-light-1600w.webp",
+      "source_path": "assets/brand/logo/webp/pay24stackedonlight1600w.webp",
+      "size_bytes": 19676,
+      "git_blob_sha": "9e7f3737448c9336d8d1e2bf0c15b0d130aabe47",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-stacked-on-light-800w.webp",
+      "source_path": "assets/brand/logo/webp/pay24stackedonlight800w.webp",
+      "size_bytes": 10166,
+      "git_blob_sha": "5dd90f8b17cd497cf20f6339c95a9de52c30682e",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-wordmark-accent-on-dark-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24wordmarkaccentondark1200w.webp",
+      "size_bytes": 9656,
+      "git_blob_sha": "28eab1da3c8635bacf375013cb5ebef756840113",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-wordmark-accent-on-light-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24wordmarkaccentonlight1200w.webp",
+      "size_bytes": 9812,
+      "git_blob_sha": "b31254e3e5945433b237aaae1cb0943e4afb1e9c",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-wordmark-on-dark-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24wordmarkondark1200w.webp",
+      "size_bytes": 15470,
+      "git_blob_sha": "b5046dd205c9f585d0238b27472e360aad8dd113",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v1/webp/pay24-wordmark-on-light-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24wordmarkonlight1200w.webp",
+      "size_bytes": 16576,
+      "git_blob_sha": "881d5aafeebe1f883b1e43414f8863fe6d21dca3",
+      "generation": "v1"
+    },
+    {
+      "path": "assets/v2/favicon/favicon-128.png",
+      "source_path": "assets/brand/logo/png/favicon128.png",
+      "size_bytes": 5705,
+      "git_blob_sha": "fea4aa762dfb4d966120871d7c9f2f6fe004d7ac",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/favicon/favicon-16.png",
+      "source_path": "assets/brand/logo/png/favicon16.png",
+      "size_bytes": 430,
+      "git_blob_sha": "58d0cf395863fb277ad2fcae4bdd2d158107cc00",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/favicon/favicon-24.png",
+      "source_path": "assets/brand/logo/png/favicon24.png",
+      "size_bytes": 779,
+      "git_blob_sha": "b2173ad5c07521820d69cc1cecd06dafcda17b27",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/favicon/favicon-256.png",
+      "source_path": "assets/brand/logo/png/favicon256.png",
+      "size_bytes": 11303,
+      "git_blob_sha": "5548f1286dc1415026944dc679f4745b6ff293d6",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/favicon/favicon-32.png",
+      "source_path": "assets/brand/logo/png/favicon32.png",
+      "size_bytes": 1143,
+      "git_blob_sha": "4c356bf174d884b992b0f939d2902944b3d48441",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/favicon/favicon-48.png",
+      "source_path": "assets/brand/logo/png/favicon48.png",
+      "size_bytes": 2034,
+      "git_blob_sha": "b956027bcf799227cd70454ded2aabc5df8cbca1",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/favicon/favicon-64.png",
+      "source_path": "assets/brand/logo/png/favicon64.png",
+      "size_bytes": 2800,
+      "git_blob_sha": "997b6d8e3345fe1ce77e4ca2d8efbdbebb3f837d",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/favicon/favicon.ico",
+      "source_path": "assets/brand/logo/ico/favicon.ico",
+      "size_bytes": 30313,
+      "git_blob_sha": "3003feacbd1e366599a1f9c57dfe4003d0f5a1f1",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/favicon/favicon.svg",
+      "source_path": "assets/brand/logo/svg/favicon.svg",
+      "size_bytes": 3030,
+      "git_blob_sha": "15bd41bcc2678814b6f38ef8ece6e8a41af3c8ec",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-app-icon-1024w.png",
+      "source_path": "assets/brand/logo/png/pay24appicon1024wn.png",
+      "size_bytes": 40983,
+      "git_blob_sha": "252f396b85e5c8f1fadca4406697b786fb051b7b",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-app-icon-256w.png",
+      "source_path": "assets/brand/logo/png/pay24appicon256wn.png",
+      "size_bytes": 11682,
+      "git_blob_sha": "86d1f7867c3d0e58ec4e4a11930c9edee08aadc3",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-app-icon-512w.png",
+      "source_path": "assets/brand/logo/png/pay24appicon512wn.png",
+      "size_bytes": 22156,
+      "git_blob_sha": "7862d864820476476dce61669cc0a8f76487bc05",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-horizontal-mono-black-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalmonoblack1200wn.png",
+      "size_bytes": 31626,
+      "git_blob_sha": "aee0387a08bd6c90f9d32eba1791f88e7150f6ec",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-horizontal-mono-white-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalmonowhite1200wn.png",
+      "size_bytes": 30574,
+      "git_blob_sha": "5904023fd8d44a736fdecdc62e18ef83ae3ea1a9",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-horizontal-on-dark-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalondark1200wn.png",
+      "size_bytes": 30832,
+      "git_blob_sha": "ec7028493ccf1e884ab9202dabd0511337cd502a",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-horizontal-on-dark-2400w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalondark2400wn.png",
+      "size_bytes": 64114,
+      "git_blob_sha": "74d7cf8b59d89709a5404ea7193f82827f0ce9ad",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-horizontal-on-light-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalonlight1200wn.png",
+      "size_bytes": 31924,
+      "git_blob_sha": "c658e1fff1c1d86afb4bc6a0cef1d4efa0c149d0",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-horizontal-on-light-2400w.png",
+      "source_path": "assets/brand/logo/png/pay24horizontalonlight2400wn.png",
+      "size_bytes": 65926,
+      "git_blob_sha": "c466a00af325bd162911f13f4cb50803a47c0e49",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-mark-mono-black-128w.png",
+      "source_path": "assets/brand/logo/png/pay24markmonoblack128wn.png",
+      "size_bytes": 7066,
+      "git_blob_sha": "873402758374da5c19db68c3ea403511372bb5b7",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-mark-mono-black-512w.png",
+      "source_path": "assets/brand/logo/png/pay24markmonoblack512wn.png",
+      "size_bytes": 25346,
+      "git_blob_sha": "8dcb395f360ace3251f57e69342abf257f2a8dca",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-mark-mono-white-128w.png",
+      "source_path": "assets/brand/logo/png/pay24markmonowhite128wn.png",
+      "size_bytes": 6244,
+      "git_blob_sha": "49701b5186bd184193b94308d7aa933481ed8899",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-mark-mono-white-512w.png",
+      "source_path": "assets/brand/logo/png/pay24markmonowhite512wn.png",
+      "size_bytes": 24152,
+      "git_blob_sha": "18f645aee27fd57d80a1b827653e4434f1b4ab9a",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-mark-on-light-128w.png",
+      "source_path": "assets/brand/logo/png/pay24markonlight128wn.png",
+      "size_bytes": 7113,
+      "git_blob_sha": "69baf0554ecdbabaa88ade1b41bfb6c7f28d1c5f",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-mark-on-light-256w.png",
+      "source_path": "assets/brand/logo/png/pay24markonlight256wn.png",
+      "size_bytes": 13589,
+      "git_blob_sha": "74defb7f3e75eb3ddf0aade2ca9841012c284039",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-mark-on-light-512w.png",
+      "source_path": "assets/brand/logo/png/pay24markonlight512wn.png",
+      "size_bytes": 25604,
+      "git_blob_sha": "b167001aa56bdf52ecfffbd3951195d782929ffc",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-wordmark-on-dark-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24wordmarkondark1200wn.png",
+      "size_bytes": 22309,
+      "git_blob_sha": "e56e4f42d921de44480df7dce3637157314cbf67",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/png/pay24-wordmark-on-light-1200w.png",
+      "source_path": "assets/brand/logo/png/pay24wordmarkonlight1200wn.png",
+      "size_bytes": 23036,
+      "git_blob_sha": "6d81aceef4cd699715017dadc009afb870a79c0c",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-app-icon.svg",
+      "source_path": "assets/brand/logo/svg/pay24appiconn.svg",
+      "size_bytes": 3056,
+      "git_blob_sha": "46df3ffd29991dc3df3493ea9009ee9a30bedc7d",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-horizontal-mono-black.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalmonoblackn.svg",
+      "size_bytes": 5549,
+      "git_blob_sha": "023463129ac706ec52354c3152217e6b832c2f5a",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-horizontal-mono-white.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalmonowhiten.svg",
+      "size_bytes": 5549,
+      "git_blob_sha": "36ef924fe273c38ed5221096595567346b90804a",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-horizontal-on-dark.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalondarkn.svg",
+      "size_bytes": 5543,
+      "git_blob_sha": "85751b3c1a4c969a936780b931caf5b610d14c9b",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-horizontal-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24horizontalonlightn.svg",
+      "size_bytes": 5545,
+      "git_blob_sha": "53fd9d04a81b3927431701e6d1314896ef970eaa",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-mark-master.svg",
+      "source_path": "assets/brand/logo/svg/pay24markmastern.svg",
+      "size_bytes": 2961,
+      "git_blob_sha": "6c0f047ded3f6908363fbe27f6021486989012fe",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-mark-mono-black.svg",
+      "source_path": "assets/brand/logo/svg/pay24markmonoblackn.svg",
+      "size_bytes": 2967,
+      "git_blob_sha": "2067ee23d5e62578cfda86e5979c6da27ecc63f1",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-mark-mono-white.svg",
+      "source_path": "assets/brand/logo/svg/pay24markmonowhiten.svg",
+      "size_bytes": 2967,
+      "git_blob_sha": "bf83c8c4d0c67137a0fcce2d0391e8360bbf78f9",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-mark-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24markonlightn.svg",
+      "size_bytes": 2963,
+      "git_blob_sha": "7553e99e70e3a668709c0c52504014f88d5ae168",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-stacked-on-dark.svg",
+      "source_path": "assets/brand/logo/svg/pay24stackedondarkn.svg",
+      "size_bytes": 5526,
+      "git_blob_sha": "9948ed4a70c1e588b133fed94105a3d09b9cef56",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-stacked-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24stackedonlightn.svg",
+      "size_bytes": 5528,
+      "git_blob_sha": "e2c95bc5edfbab50b1bc79a6e1a6e1c7e039b21a",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-wordmark-on-dark.svg",
+      "source_path": "assets/brand/logo/svg/pay24wordmarkondarkn.svg",
+      "size_bytes": 2752,
+      "git_blob_sha": "a6d078929269139ce584831560a2b196dae41d48",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/svg/pay24-wordmark-on-light.svg",
+      "source_path": "assets/brand/logo/svg/pay24wordmarkonlightn.svg",
+      "size_bytes": 2754,
+      "git_blob_sha": "6e2cad09f369ee9d4b43837da63d2ad808fe3085",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-app-icon-1024w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicon1024wn.webp",
+      "size_bytes": 13588,
+      "git_blob_sha": "91742ec4bef361574edac17792eb3dbd9b567334",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-app-icon-256w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicon256wn.webp",
+      "size_bytes": 4318,
+      "git_blob_sha": "8f434deb4028f4abbf701965aa255d2cdfb54c6a",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-app-icon-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24appicon512wn.webp",
+      "size_bytes": 7664,
+      "git_blob_sha": "4a31f7cf61d2e071a47057b6fc3d9322632b53c8",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-horizontal-mono-black-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalmonoblack1200wn.webp",
+      "size_bytes": 10802,
+      "git_blob_sha": "914821f6cbba3db0728f3609f75960bab9e162ef",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-horizontal-mono-white-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalmonowhite1200wn.webp",
+      "size_bytes": 10716,
+      "git_blob_sha": "d4cbc7a85a9423c22d1612a3d71ece87420e68ec",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-horizontal-on-dark-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalondark1200wn.webp",
+      "size_bytes": 11772,
+      "git_blob_sha": "7653d1afd3a2820632ce786247c07e5c8fc0c5e0",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-horizontal-on-dark-2400w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalondark2400wn.webp",
+      "size_bytes": 22738,
+      "git_blob_sha": "61db13a8d06fe357b9096ddd52e5510e8e5672a6",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-horizontal-on-light-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalonlight1200wn.webp",
+      "size_bytes": 11790,
+      "git_blob_sha": "ce35ad9b81f29270f90aa202708a60ffb407c018",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-horizontal-on-light-2400w.webp",
+      "source_path": "assets/brand/logo/webp/pay24horizontalonlight2400wn.webp",
+      "size_bytes": 22838,
+      "git_blob_sha": "1724f8d1d138483b75999225c00c29fe914be215",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-mark-mono-black-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markmonoblack512wn.webp",
+      "size_bytes": 8618,
+      "git_blob_sha": "e6e5e7445f7bc9d944f618cc6269fe61e3ef79a9",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-mark-mono-white-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markmonowhite512wn.webp",
+      "size_bytes": 8538,
+      "git_blob_sha": "59d233ef493b7532b9f0facf3fc4098eef73a97d",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-mark-on-light-256w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markonlight256wn.webp",
+      "size_bytes": 5658,
+      "git_blob_sha": "f29cc1a1c92ab6f1ad56c4ed2982e2c7e46e5e49",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-mark-on-light-512w.webp",
+      "source_path": "assets/brand/logo/webp/pay24markonlight512wn.webp",
+      "size_bytes": 9368,
+      "git_blob_sha": "afce0103e8a0303fb9c7b2a2c1102fae31452cc6",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-wordmark-on-dark-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24wordmarkondark1200wn.webp",
+      "size_bytes": 8174,
+      "git_blob_sha": "b84567d0b921d3bed46fcdc7946980452674bd1a",
+      "generation": "v2"
+    },
+    {
+      "path": "assets/v2/webp/pay24-wordmark-on-light-1200w.webp",
+      "source_path": "assets/brand/logo/webp/pay24wordmarkonlight1200wn.webp",
+      "size_bytes": 8260,
+      "git_blob_sha": "f79c328c602f58327c445d1bd7dce9a329eabe36",
+      "generation": "v2"
+    }
+  ]
+}
